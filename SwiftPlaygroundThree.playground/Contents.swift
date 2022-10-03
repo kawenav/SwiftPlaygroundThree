@@ -18,7 +18,16 @@ for name in fruitNames{
     print("I like to eat " + name)
 }
 
-//Part 8
+//Part 8: Introduction to Array Indexes
 print(fruitNames[1])
+
+//Part 9: On Your Own
+var expensiveCars: [String]
+expensiveCars = ["Bugatti", "Rolls-Royce", "Koenigsegg CCXR", "Lamborghini", "McLaren", "Lykan Hypersport",
+"Aston Martin Valkyrie", "Ferrari"]
+print(expensiveCars[0] + " is a very expensive car")
+
+
+
 
 
